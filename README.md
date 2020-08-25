@@ -6,7 +6,7 @@ This repository contains browser games made while coding along with different vi
 
    * __Game concept:__ it's > "...a massively multiplayer online action game created by Brazilian developer Matheus Valadares. Players control one or more circular cells in a map representing a Petri dish. The goal is to gain as much mass as possible by eating agar and cells smaller than the player's cell while avoiding larger ones which can eat the player's cells. Each player starts with one cell, but players can split a cell into two once it reaches a sufficient mass, allowing them to control multiple cells. The name comes from the substance agar, used to culture bacteria" (for further information, its [Wikipedia page][credits-wikipedia-agario].
    * __Video tutorial(s):__
-     * [Coding Challenge #32.1 Agar.io - Part 1 (Basic Game Mechanics)(https://youtu.be/JXuxYMGe4KI) (*in progress*)
+     * [Coding Challenge #32.1 Agar.io - Part 1 (Basic Game Mechanics)](https://youtu.be/JXuxYMGe4KI) (*in progress*)
      * [Coding Challenge #32.2 Agar.io - Part 2 (Networking with Socket.IO and Node.js)](https://youtu.be/ZjVyKXp9hec)
      * [Coding Challenge #36 Blobby!](https://youtu.be/rX5p-QRP6R4)
      * [Coding Challenge #59 Steering Behaviors](https://youtu.be/4hA7G3gup-4)
@@ -15,7 +15,7 @@ This repository contains browser games made while coding along with different vi
    * __Coding along with:__ [Coding Train][credits-coding-train]
    * __Programming language:__ JavaScript (*p5.js* library)
    * __Game's code:__ [sketch with code editor](https://editor.p5js.org/eleazardev/sketches/cnXmMBOgN)
-   * __Play it online:__ [Web version](https://editor.p5js.org/eleazardev/sketches/cnXmMBOgN) (*currently in development*)
+   * __Play it online:__ [Web version](https://editor.p5js.org/eleazardev/present/cnXmMBOgN) (*currently in development*)
    
 ### Credits ###
 
